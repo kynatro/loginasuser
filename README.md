@@ -1,4 +1,4 @@
-loginasuser
+Login as User WordPress Plugin
 ===========
 
-Login As User WordPress Plugin
+A handy plugin for WordPress site administrators that allows a super admin user to log in as other users. This is a [Must Use Plugin](http://codex.wordpress.org/Must_Use_Plugins "WordPress Codex > Must Use Plugins") and must be placed in the /wp-content/mu-plugins folder of your WordPress installation. When installed on your WordPress site you will see a new "Login as User" button column on the Users admin table when logged in as a super admin user. For users of WP E-Commerce, a button will also appear at the bottom of the transaction record detail page.
